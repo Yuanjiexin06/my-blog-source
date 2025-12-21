@@ -282,8 +282,8 @@ aside:
   position: right
   display:
     archive: true
-    tag: true
-    category: true
+    tag: false
+    category: false
   card_author:
     enable: true
     description:
